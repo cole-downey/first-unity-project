@@ -1118,7 +1118,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Score: 0'
+  m_text: 'Score: 10'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c926ed25d641f4f4d83c78d60dc912c4, type: 2}
   m_sharedMaterial: {fileID: -4605862162537907257, guid: c926ed25d641f4f4d83c78d60dc912c4,
